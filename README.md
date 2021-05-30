@@ -1,7 +1,7 @@
 # EthereumDeFi_Ethers.rs
 
 This is a quick examples for newbies to illustrate transfer from one account to another in Ethereum (from my series: Building DeFi with Rust and Ethereum). This sample is inspired by the [examples](https://github.com/gakonst/ethers-rs/tree/master/ethers/examples) on ethers.rs. 
-It utilizes the ethers.rs crate which is very similar to the ethers.js library for JavaScript developers. This crate is very lightweight and lot's of Dapps are exploring ethers.js over Web3.rs which is kind of bulky.
+It utilizes the [ethers.rs](https://crates.io/crates/ethers) crate which is very similar to the ethers.js library for JavaScript developers. This crate is very lightweight and lot's of Dapps are exploring ethers.js over Web3.rs which is kind of bulky.
 
 Follow the step below to get this example running in your working environment
 - Install and set-up [Ganache CLI](https://www.npmjs.com/package/ganache-cli) in your working environment
